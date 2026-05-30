@@ -1,8 +1,9 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "App Store listing copy (name, description, keywords, metadata)",
     "Declare iPad/iPhone supported orientations for App Store validation",
     "Professional new app icon (gradient, gloss, depth)",
     "Add ITSAppUsesNonExemptEncryption=NO for TestFlight uploads",
