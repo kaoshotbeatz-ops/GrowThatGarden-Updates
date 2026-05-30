@@ -1,16 +1,16 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Animated growing plant \u2014 visualizes real growth stages in My Garden",
     "Bed Planner tool + legal/attribution notices",
     "Dedicated Settings tab (Appearance moved from About)",
     "Theming: 5 colorways + Light/Dark/System modes (Appearance in About)",
     "Rename app to Cultiva (drop KAOS); dedicated Cultiva-Updates feed",
     "Point download link to Cultiva-Updates",
     "Dedicated Cultiva-Updates feed repo",
-    "Fix release.sh PATH so gh is found during publish",
-    "Route Ask through AIRouter; clean up AssistantView"
+    "Fix release.sh PATH so gh is found during publish"
   ],
   "downloadURL": "https://github.com/kaoshotbeatz-ops/Cultiva-Updates/releases"
 }
