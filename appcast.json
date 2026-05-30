@@ -1,8 +1,9 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "All Features list in About + full untruncated changelog in updates",
     "Animated growing plant \u2014 visualizes real growth stages in My Garden",
     "Bed Planner tool + legal/attribution notices",
     "Dedicated Settings tab (Appearance moved from About)",
