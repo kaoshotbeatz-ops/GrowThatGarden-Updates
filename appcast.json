@@ -1,8 +1,9 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Photos & Health Check: photo journal per plant + offline diagnoser (vision-ready)",
     "Wire Moon Planting + restore Bed Planner in Tools",
     "New: Moon Planting tool \u2014 plant by live-computed lunar phase",
     "App Store listing copy (name, description, keywords, metadata)",
