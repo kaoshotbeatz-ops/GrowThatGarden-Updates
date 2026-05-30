@@ -1,8 +1,9 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Professional new app icon (gradient, gloss, depth)",
     "Add ITSAppUsesNonExemptEncryption=NO for TestFlight uploads",
     "TestFlight-ready: privacy policy, encryption declaration, submission guide",
     "Apple HIG: iPhone shows 5-tab bar (4 core + More hub); iPad/Mac show all tabs",
