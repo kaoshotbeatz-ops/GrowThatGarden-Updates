@@ -1,8 +1,9 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "\ud83c\udf3f Cultiva 2.2 \u2014 Liquid Glass design (Metal 4) + App Store updates",
     "\ud83c\udf3f Cultiva: Grow Guide 2.1 \u2014 Companion Checker is now MUCH bigger: every good/bad neighbor, reverse-match findings, and companion-planting basics. Full app name now shown in About.",
     "\ud83c\udf89 Cultiva 2.0 \u2014 NEW Harvest Tracker: log every pick and see season totals by plant",
     "Photos & Health Check: photo journal per plant + offline diagnoser (vision-ready)",
