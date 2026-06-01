@@ -1,8 +1,9 @@
 {
-  "version": "2.3.0",
-  "date": "2026-05-31",
+  "version": "2.4.0",
+  "date": "2026-06-01",
   "critical": false,
   "notes": [
+    "\ud83c\udf31 GrowThatGarden 2.4 \u2014 Renamed from Cultiva to match the suite! Same great gardening app.",
     "\ud83c\udf3f Cultiva 2.3 \u2014 NEW Discover hub: Random Plant, Plant of the Day, Garden Stats, Browse by Category & daily Grow Tips",
     "\ud83c\udf3f Cultiva 2.2 \u2014 Liquid Glass design (Metal 4) + App Store updates",
     "\ud83c\udf3f Cultiva: Grow Guide 2.1 \u2014 Companion Checker is now MUCH bigger: every good/bad neighbor, reverse-match findings, and companion-planting basics. Full app name now shown in About.",
@@ -28,5 +29,6 @@
     "Dedicated Cultiva-Updates feed repo",
     "Fix release.sh PATH so gh is found during publish"
   ],
-  "downloadURL": "https://github.com/kaoshotbeatz-ops/Cultiva-Updates/releases"
+  "downloadURL": "https://github.com/kaoshotbeatz-ops/Cultiva-Updates/releases",
+  "app": "GrowThatGarden"
 }
